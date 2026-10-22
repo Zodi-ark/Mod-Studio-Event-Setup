@@ -2,7 +2,7 @@
   "ModId": "fftivc.utility.modstudio.eventsetup",
   "ModName": "Mod Studio Event Setup",
   "ModAuthor": "Mod Studio",
-  "ModVersion": "1.0.1",
+  "ModVersion": "1.0.2",
   "ModDescription": "Applies the event setup changes that mods made with The Ivalice Chronicles Mod Studio list: an event's map, weather, time of day, music, enemy battle, deploy areas, what follows it and its battle rules. Install it with any mod that needs it.",
   "ModDll": "ModStudioEventSetup.dll",
   "ModIcon": "Preview.png",
